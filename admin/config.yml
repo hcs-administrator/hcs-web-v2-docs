@@ -1,9 +1,6 @@
 backend:
   name: git-gateway
-  # name: github
-  # repo: hcs-administrator/hcs-web-v2
   branch: main # Branch to update (optional; defaults to master)
-  # branch: pre-production # Choose the branch to update
   commit_messages:
     create: Create {{collection}} “{{slug}} by {{author-login}}”
     update: Update {{collection}} “{{slug}} by {{author-login}}”
