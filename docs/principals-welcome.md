@@ -1,6 +1,8 @@
 ---
 title: "HCS :: Home"
-slug: ""
+slug: /principal-welcome
+summary: Principal Welcome
+date: 2025-06-13T21:31:00.000Z
 ---
 
 # Principal's Welcome
