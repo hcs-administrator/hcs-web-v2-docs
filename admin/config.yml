@@ -1,0 +1,37 @@
+backend:
+  name: git-gateway
+  # name: github
+  # repo: hcs-administrator/hcs-web-v2
+  branch: main # Branch to update (optional; defaults to master)
+  # branch: pre-production # Choose the branch to update
+  commit_messages:
+    create: Create {{collection}} “{{slug}} by {{author-login}}”
+    update: Update {{collection}} “{{slug}} by {{author-login}}”
+    delete: Delete {{collection}} “{{slug}} by {{author-login}}”
+    uploadMedia: Upload “{{path}} by {{author-login}}” 
+    deleteMedia: Delete “{{path}} by {{author-login}}” 
+    openAuthoring: '{{message}}'
+publish_mode: editorial_workflow
+media_folder: public/media
+public_folder: public
+site_url: https://hcs-web-v2.netlify.app
+display_url: https://hcs-web-v2.netlify.app
+logo_url: https://static.hcs.net.nz/images/hcs_logo.png
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+collections:
+  - name: docs
+    label: "Pages"
+    folder: "docs"
+    media_folder: 'public/media'
+    public_folder: 'public'
+    create: true
+    slug: "{{slug}}.md"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
