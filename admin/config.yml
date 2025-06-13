@@ -11,8 +11,8 @@ backend:
 publish_mode: editorial_workflow
 media_folder: public/media
 public_folder: public
-site_url: https://hcs-web-v2.netlify.app
-display_url: https://hcs-web-v2.netlify.app
+site_url: https://hcs-web-docs.netlify.app
+display_url: https://hcs-web-docs.netlify.app
 logo_url: https://static.hcs.net.nz/images/hcs_logo.png
 slug:
   encoding: "ascii"
