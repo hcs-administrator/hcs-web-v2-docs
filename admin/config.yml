@@ -19,9 +19,35 @@ slug:
   clean_accents: true
   sanitize_replacement: "_"
 collections:
-  - name: docs
-    label: "Pages"
-    folder: "docs"
+  - name: website_pages
+    label: "Website Pages"
+    folder: "website_pages"
+    media_folder: 'public/media'
+    public_folder: 'public'
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Summary", name: "summary", widget: "text" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: website_banners
+    label: "Website Banner"
+    folder: "website_banner"
+    media_folder: 'public/media'
+    public_folder: 'public'
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Page Displayed On", name: "slug", widget: "string" }
+      - { label: "Start Date", name: "start_date", widget: "datetime" }
+      - { label: "End Date", name: "end_date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: hoogle_pages
+    label: "Hoogle Pages"
+    folder: "hoogle_pages"
     media_folder: 'public/media'
     public_folder: 'public'
     create: true
