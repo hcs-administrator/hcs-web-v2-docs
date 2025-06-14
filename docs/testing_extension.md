@@ -1,5 +1,5 @@
 ---
-title: Testing Extension
+title: Testing Extension 2
 slug: testing-extension
 summary: Here is a file created in Decap CMS
 date: 2025-06-14T12:09:00.000Z
