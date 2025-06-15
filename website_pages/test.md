@@ -8,4 +8,4 @@ slug: test2
 
 
 
-![](public/hcs-logo-120.png)
+![](/hcs-logo-120.png)
