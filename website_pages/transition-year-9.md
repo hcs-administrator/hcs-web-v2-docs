@@ -1,7 +1,7 @@
 ---
 title: Welcome
-slug: welcome2
-filename: test
+slug: transition-year-9
+filename: transition-year-9
 summary: Welcome
 date: 2025-06-15T18:15:00.000Z
 ---
