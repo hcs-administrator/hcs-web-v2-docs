@@ -1,11 +1,9 @@
 ---
-title: "HCS :: Home"
-slug: home
+title: "Principal's Welcome"
+slug: principals-welcome
 summary: Welcome to the school message from the principal
 date: 2025-06-15T19:03:00.000Z
 ---
-
-# Principal's Welcome
 
 ## Tēnā koutou
 
