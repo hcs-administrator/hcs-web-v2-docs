@@ -26,9 +26,11 @@ collections:
     public_folder: 'public'
     create: true
     slug: "{{slug}}"
+    filename: "{{filename}}"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "FileName", name: "filename", widget: "string" }
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
