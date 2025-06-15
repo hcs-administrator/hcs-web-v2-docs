@@ -1,6 +1,8 @@
 ---
 title: Welcome
-slug: transition-year-9
+slug: welcome
+summary: Welcome
+date: 2025-06-15T18:15:00.000Z
 ---
 
 # Transitioning away from Year 9 Intake.  
