@@ -1,6 +1,6 @@
 ---
 title: Welcome
-slug: welcome
+slug: welcome2
 filename: test
 summary: Welcome
 date: 2025-06-15T18:15:00.000Z
