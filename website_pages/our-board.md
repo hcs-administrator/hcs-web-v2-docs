@@ -5,6 +5,7 @@ menu: About Us
 summary: Our Board
 date: 2025-06-15T19:03:00.000Z
 ---
+
 # The Board of Trustees
 
 As an integrated school, Hamilton Christian School has two boards. The School Board governs the school, and every member is equally accountable for every board action and decision.
