@@ -1,8 +1,8 @@
 ---
-title: Information
-slug: information
+title: About Us
+slug: about-us
 menu: About Us
-summary: Information test
+summary: About HCS
 date: 2025-06-15T19:03:00.000Z
 ---
 
