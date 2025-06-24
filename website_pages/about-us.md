@@ -23,7 +23,7 @@ At Hamilton Christian School we are committed to engage students in high quality
 Hamilton Christian School Policies and Procedures can be found on our SchoolDocs page. Please follow the link below, using the following username and password to login:
 Username:  hamiltonchristian
 Password:  micah
-(https://hamiltonchristian.schooldocs.co.nz)[https://hamiltonchristian.schooldocs.co.nz]
+[https://hamiltonchristian.schooldocs.co.nz](https://hamiltonchristian.schooldocs.co.nz)
 
 If you want to look over Hamilton Christian School's constitution you can download it here.
 
