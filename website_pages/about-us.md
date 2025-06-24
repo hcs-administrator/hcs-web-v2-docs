@@ -6,6 +6,8 @@ summary: About HCS
 date: 2025-06-15T19:03:00.000Z
 ---
 
+# General Information
+
 **School Motto**
 
 Act Justly, Love Mercy, Walk Humbly with God.
