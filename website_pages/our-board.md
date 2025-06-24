@@ -27,7 +27,7 @@ The Board employs the school’s principal to oversee the day-to-day management 
 The Board can be contacted by emailing boardoftrustees@hamiltonchristian.school.nz
 
 | Name | Parent Elected |
-| --- | --- |
+| :--- | :--- |
 | Mr Brett Bennett | Parent Elected |
 | Mrs Esré Bezuidenhout | Parent Elected |
 | Mr Jason Farmer | Parent Elected |
@@ -63,7 +63,7 @@ Our Board members value your prayers.
 They are:
 
 | Name | Position | Church |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | Mr Brett Bennett | Chair | Southside Church (Pastor) |
 | Mr Dave Wyllie | Vice-chair & Treasurer | Activate Church |
 | Mr Andrew Clements | Director | Oaks Christian Fellowship |
