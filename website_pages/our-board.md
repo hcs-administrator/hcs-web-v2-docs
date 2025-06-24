@@ -5,7 +5,6 @@ menu: About Us
 summary: Our Board
 date: 2025-06-15T19:03:00.000Z
 ---
-
 # The Board of Trustees
 
 As an integrated school, Hamilton Christian School has two boards. The School Board governs the school, and every member is equally accountable for every board action and decision.
@@ -26,17 +25,18 @@ The Board employs the school’s principal to oversee the day-to-day management 
 
 The Board can be contacted by emailing boardoftrustees@hamiltonchristian.school.nz
 
-| Name | Parent Elected |
-| :--- | :--- |
-| Mr Brett Bennett | Parent Elected |
-| Mrs Esré Bezuidenhout | Parent Elected |
-| Mr Jason Farmer | Parent Elected |
-| Mr Peter Sun | Parent Elected |
-| Mr James Rhynes | Proprietor appointed |
-| Mr Dave Wyllie | Proprietor appointed |
-| Mr Shaun Brooker | Principal |
-| Mr Hayden Bosgra | Staff representative |
-| Joanna Paul | Student representative |
+
+| Name                  | Parent Elected         |
+| --------------------- | ---------------------- |
+| Mr Brett Bennett      | Parent Elected         |
+| Mrs Esré Bezuidenhout | Parent Elected         |
+| Mr Jason Farmer       | Parent Elected         |
+| Mr Peter Sun          | Parent Elected         |
+| Mr James Rhynes       | Proprietor appointed   |
+| Mr Dave Wyllie        | Proprietor appointed   |
+| Mr Shaun Brooker      | Principal              |
+| Mr Hayden Bosgra      | Staff representative   |
+| Joanna Paul           | Student representative |
 
 ## HCS - Audited Annual Reports
 
@@ -62,14 +62,15 @@ Our Board members value your prayers.
 
 They are:
 
-| Name | Position | Church |
-| :--- | :--- | :--- |
-| Mr Brett Bennett | Chair | Southside Church (Pastor) |
-| Mr Dave Wyllie | Vice-chair & Treasurer | Activate Church |
-| Mr Andrew Clements | Director | Oaks Christian Fellowship |
-| Mr Robert van Woerden | Director | Reformed Church of Hukanui |
-| Mr Simon Finlay | Director | Gateway Church |
-| Mrs Esré Bezuidenhout | Director | Living Waters Mission International |
-| Mr Conrad Booysen | Director | Living Waters Mission International |
-| Mrs Jess Bosgra | Director | Reformed Church of Hukanui |
-| Mr James Rhynes | Director | | 
+
+| Name                  | Position               | Church                              |
+| --------------------- | ---------------------- | ----------------------------------- |
+| Mr Brett Bennett      | Chair                  | Southside Church (Pastor)           |
+| Mr Dave Wyllie        | Vice-chair & Treasurer | Activate Church                     |
+| Mr Andrew Clements    | Director               | Oaks Christian Fellowship           |
+| Mr Robert van Woerden | Director               | Reformed Church of Hukanui          |
+| Mr Simon Finlay       | Director               | Gateway Church                      |
+| Mrs Esré Bezuidenhout | Director               | Living Waters Mission International |
+| Mr Conrad Booysen     | Director               | Living Waters Mission International |
+| Mrs Jess Bosgra       | Director               | Reformed Church of Hukanui          |
+| Mr James Rhynes       | Director               |                                     |
